@@ -1,6 +1,6 @@
 # Player de Música
 
-![preview](/.github/preview1.png)
+![preview](/github/preview1.png)
 
 > 1º Desafio semanal do #boraCodar proposto pela Rocketseat
 
