@@ -1,6 +1,10 @@
 # Encontre seu bloco no carnaval
 
-![preview](/.github/preview7.png)
+<p align="center">
+
+  <img src="github/preview7.png" width="80%">
+
+</p>
 
 > 7º Desafio semanal do #boraCodar proposto pela Rocketseat
 
