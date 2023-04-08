@@ -1,6 +1,10 @@
 # Kanban
 
-![preview](/.github/preview12.png)
+<p align="center">
+
+  <img src="github/preview12.png" width="80%">
+
+</p>
 
 > 12º Desafio semanal do #boraCodar proposto pela Rocketseat
 
