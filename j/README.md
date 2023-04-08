@@ -1,6 +1,10 @@
 # Página de Clima
 
-![preview](/.github/preview10.png)
+<p align="center">
+
+  <img src="github/preview10.png" width="80%">
+
+</p>
 
 > 10º Desafio semanal do #boraCodar proposto pela Rocketseat
 
