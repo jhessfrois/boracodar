@@ -9,7 +9,7 @@
 > 9º Desafio semanal do #boraCodar proposto pela Rocketseat
 
 ## Github Pages
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/jogo-forca/)
+[🔗 Clique aqui para acessar](https://jhessfrois.github.io/boracodar/i/)
 
 ## 🛠 Tecnologias
 > Tecnologias usadas para o desafio
