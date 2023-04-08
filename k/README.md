@@ -1,6 +1,10 @@
 # Página de Login
 
-![preview](/.github/preview11.png)
+<p align="center">
+
+  <img src="github/preview11.png" width="80%">
+
+</p>
 
 > 11º Desafio semanal do #boraCodar proposto pela Rocketseat
 
