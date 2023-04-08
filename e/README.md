@@ -1,6 +1,8 @@
 # Calculadora
 
-![preview](/.github/preview5.png)
+<p align="center">
+  <img src="github/preview5.png" width="80%">
+</p>
 
 > 5º Desafio semanal do #boraCodar proposto pela Rocketseat
 
