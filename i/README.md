@@ -1,6 +1,10 @@
 # Conversor de Moedas
 
-![preview](/.github/preview9.png)
+<p align="center">
+
+  <img src="github/preview9.png" width="80%">
+
+</p>
 
 > 9º Desafio semanal do #boraCodar proposto pela Rocketseat
 
