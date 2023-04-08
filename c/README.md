@@ -1,6 +1,8 @@
 # Botões e Cursores
 
-![preview](/.github/preview3.png)
+<p align="center">
+  <img src="github/preview3.png" width="80%">
+</p>
 
 > 3º Desafio semanal do #boraCodar proposto pela Rocketseat
 
