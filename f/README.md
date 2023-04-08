@@ -1,6 +1,8 @@
 # Cartão de Embarque
 
-![preview](/.github/preview6.png)
+<p align="center">
+  <img src="github/preview6.png" width="80%">
+</p>
 
 > 6º Desafio semanal do #boraCodar proposto pela Rocketseat
 
