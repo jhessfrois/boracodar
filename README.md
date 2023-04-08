@@ -50,67 +50,67 @@
             <td>02</td>
             <td><a href="02">Product Card</a></td>
             <td>07/04/23</td>
-            <td align="center"><a href="02"><img width="300px" src="boracodar2/.github/preview2.png" /></a></td>
+            <td align="center"><a href="02"><img width="300px" src="b/github/preview2.png" /></a></td>
         </tr>
         <tr>
             <td>03</td>
             <td><a href="03">Botões e Cursores</a></td>
             <td>07/04/23</td>
-            <td align="center"><a href="03"><img width="300px" src="boracodar3/.github/preview3.png" /></a></td>
+            <td align="center"><a href="03"><img width="300px" src="c/github/preview3.png" /></a></td>
         </tr>
         <tr>
             <td>04</td>
             <td><a href="04">Chat</a></td>
             <td>07/04/23</td>
-            <td align="center"><a href="04"><img width="300px" src="boracodar4/.github/preview4.png" /></a></td>
+            <td align="center"><a href="04"><img width="300px" src="d/github/preview4.png" /></a></td>
         </tr>
         <tr>
             <td>05</td>
             <td><a href="05">Calculadora</a></td>
             <td>07/04/23</td>
-            <td align="center"><a href="05"><img width="300px" src="boracodar5/.github/preview5.png" /></a></td>
+            <td align="center"><a href="05"><img width="300px" src="e/github/preview5.png" /></a></td>
         </tr>
         <tr>
             <td>06</td>
             <td><a href="06">Cartão de embarque</a></td>
             <td>07/04/23</td>
-            <td align="center" ><a href="06"><img width="300px" src="boracodar6/.github/preview6.png" /></a></td>
+            <td align="center" ><a href="06"><img width="300px" src="f/github/preview6.png" /></a></td>
         </tr>
         <tr>
             <td>07</td>
             <td><a href="07">Encontre seu bloco no carnaval</a></td>
             <td>07/04/23</td>
-            <td align="center" ><a href="07"><img width="300px" src="boracodar7/.github/preview7.png" /></a></td>
+            <td align="center" ><a href="07"><img width="300px" src="g/github/preview7.png" /></a></td>
         </tr>
         <tr>
             <td>08</td>
             <td><a href="08">Dashboard</a></td>
             <td>07/04/23</td>
-            <td align="center" ><a href="08"><img width="300px" src="boracodar8/.github/preview8.png" /></a></td>
+            <td align="center" ><a href="08"><img width="300px" src="h/github/preview8.png" /></a></td>
         </tr>
         <tr>
             <td>09</td>
             <td><a href="09">Conversor de Moedas</a></td>
             <td>07/04/23</td>
-            <td align="center" ><a href="09"><img width="300px" src="boracodar9/.github/preview9.png" /></a></td>
+            <td align="center" ><a href="09"><img width="300px" src="i/github/preview9.png" /></a></td>
         </tr>
         <tr>
             <td>10</td>
             <td><a href="10">Uma página de clima</a></td>
             <td>07/04/23</td>
-            <td align="center" ><a href="10"><img width="300px" src="boracodar10/.github/preview10.png" /></a></td>
+            <td align="center" ><a href="10"><img width="300px" src="j/github/preview10.png" /></a></td>
         </tr>
         <tr>
             <td>11</td>
             <td><a href="11">Uma página de login</a></td>
             <td>07/04/23</td>
-            <td align="center" ><a href="11"><img width="300px" src="boracodar11/.github/preview11.png" /></a></td>
+            <td align="center" ><a href="11"><img width="300px" src="k/github/preview11.png" /></a></td>
         </tr>
         <tr>
             <td>12</td>
             <td><a href="12">Um Kanban</a></td>
             <td>07/04/23</td>
-            <td align="center" ><a href="12"><img width="300px" src="boracodar12/.github/preview12.png" /></a></td>
+            <td align="center" ><a href="12"><img width="300px" src="l/github/preview12.png" /></a></td>
         </tr>
     </tbody>
 </table></p>
