@@ -1,6 +1,8 @@
 # Chat
 
-![preview](/.github/preview4.png)
+<p align="center">
+  <img src="github/preview4.png" width="80%">
+</p>
 
 > 4º Desafio semanal do #boraCodar proposto pela Rocketseat
 
