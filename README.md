@@ -44,7 +44,7 @@
             <td><a href="01">Music Player</a></td>
             <td>07/04/23</td>
             <td align="center">
-            <a href="01"><img width="300px" src="boracodar1/.github/preview1.png" /></a></td>
+            <a href="01"><img width="300px" src="a/github/preview1.png" /></a></td>
         </tr>
         <tr>
             <td>02</td>
