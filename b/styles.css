@@ -102,3 +102,35 @@ p {
   color: #ffffff;
   background-color: #271a45;
 }
+
+@media screen and (max-width: 900px) {
+  body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+  }
+
+  #app {
+    display: block;
+    position: absolute;
+  }
+
+  #product-details {
+    text-align: center;
+  }
+
+  h1 {
+    width: 95%;
+  }
+}
+
+@media screen and (max-width: 458px) {
+  button#btn-360,
+  button#btn-close {
+    position: absolute;
+    bottom: 250px;
+    left: 10px;
+    overflow: hidden;
+  }
+}
