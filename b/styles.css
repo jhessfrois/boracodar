@@ -23,6 +23,7 @@ body * {
   color: var(--text-color);
   font-family: "Lato", sans-serif;
   line-height: 100%;
+  max-width: 100%;
 }
 
 #btn-close,
